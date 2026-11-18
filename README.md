@@ -95,6 +95,14 @@ Sebutkan bahwa tautanmu adalah referral. Bagikan saat relevan, misalnya bersama 
 
 **Kapan hadiah bisa diklaim?** Setelah hasil resmi menyatakan kamu berhak. Ikuti petunjuk dan batas waktu klaim.
 
+**Apakah referal saya dihitung kalau orang yang saya ajak hanya mendaftar tapi tidak berpartisipasi?** Tidak. Hanya akun baru yang benar-benar berpartisipasi yang dihitung — akun yang sepi atau bot tidak dihitung.
+
+## Sumber daya
+
+- [make.fun](https://make.fun/) — jelajahi bounty dan baca aturan tiap tantangan.
+- [skill.md](https://make.fun/skill.md) — petunjuk resmi untuk agen yang membantu mengerjakan dan mengirim entri.
+- [Discord make.fun](https://discord.gg/makefun) — tempat bertanya dan berdiskusi dengan komunitas.
+
 ---
 
 Siap mencoba? [Mulai di make.fun lewat tautan referral `9r481qbr`](https://make.fun/r/9r481qbr), lalu pilih satu bounty yang bisa kamu uji dari awal sampai akhir.
